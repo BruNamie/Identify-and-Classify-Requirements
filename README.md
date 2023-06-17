@@ -9,8 +9,8 @@ The material used and introduced here is based in other project: "A Practical Us
 Thus, the material presented here has adaptations to be able to use the outputs of the previous model and to use the Cross-Validation technique according to "RE-BERT: Automatic Extraction of Software Requirements from App Reviews using BERT Language Model" by Adailton Ferreira de Araújo and Ricardo Marcondes Marcacini.
 
 ### Material 
-* [Creation of the training dataset (Notebook)](Train Dataset for Reviews Classification.ipynb)
-* [Creation of the testing dataset (Notebook)](Test Dataset for Reviews Classification.ipynb)
+* [Creation of the training dataset (Notebook)](Train_Dataset_for_Reviews_Classification.ipynb)
+* [Creation of the testing dataset (Notebook)](Test_Dataset_for_Reviews_Classification.ipynb)
 * [Model training, testing and evaluation (Notebook)](Application.ipynb)
 * Datasets for training and testing
 * Examples of model output: requirements classification
