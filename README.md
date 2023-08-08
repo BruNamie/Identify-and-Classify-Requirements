@@ -1,4 +1,4 @@
-# Use of reviews from App Stores to Identify and Classify Requirements using Natural Language Processing
+# Identifying and Classifying Requirements from App Store Reviews using Natural Language Processing
 This repository introduces part of the material used in the Undergraduate Research project. It represents the second task: Classify Requirements. 
 
 ## Identify Requirements
